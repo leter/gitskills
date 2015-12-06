@@ -1,2 +1,2 @@
 # gitskills
-a test 
+a test project 
